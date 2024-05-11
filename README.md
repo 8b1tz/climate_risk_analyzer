@@ -12,8 +12,6 @@ Este projeto foi desenvolvido como parte do curso de Imersão em Inteligência A
 ## Tecnologias Utilizadas
 - **Python**: Linguagem de programação utilizada para o desenvolvimento do sistema.
 - **Requests**: Biblioteca para realizar requisições HTTP e obter informações de localização e dados meteorológicos.
-- **Markdown2**: Biblioteca para converter texto em Markdown para HTML.
-- **PDFKit**: Biblioteca para converter HTML para PDF.
 - **FPDF2**: Biblioteca para criar e manipular arquivos PDF.
 - **Google GenerativeAI**: Biblioteca para acesso a modelos de inteligência artificial generativa do Google.
 
